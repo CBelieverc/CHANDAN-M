@@ -240,12 +240,12 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/CBelieverc/CBelieverc/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Dhanush678"><img alt="Dhanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhanush678&custom_title=Dhanush678's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/CBelieverc"><img alt="Chandan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CBelieverc&custom_title=CBelieverc's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -253,7 +253,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhanush678&layout=compact&theme=algolia" alt="Dhanush678" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CBelieverc&layout=compact&theme=algolia" alt="CBelieverc" /></a> </p>
 </a>
 
 
